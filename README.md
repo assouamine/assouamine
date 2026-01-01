@@ -16,9 +16,9 @@ I enjoy building real-world projects, learning new technologies, and collaborati
 
 ## 🎓 Education
 
-- 🎓 **Engineering Degree in Computer Science** — *Private University of Fès* (2022 – 2025, ongoing)
-- 🎓 **Bachelor’s in English Studies** — *USMBA* (2024 – 2025, ongoing)
-- 🎓 **Baccalaureate in Physical Sciences – French Section** (2022)
+- 🎓 **Engineering Degree in Computer Science** — *Private University of Fès* (2022 – 2025, ongoing)  
+- 🎓 **Bachelor’s in English Studies** — *USMBA* (2024 – 2025, ongoing)  
+- 🎓 **Baccalaureate in Physical Sciences – French Section** (2022)  
 
 ---
 
@@ -29,22 +29,16 @@ I enjoy building real-world projects, learning new technologies, and collaborati
 *June 2023 – August 2023*  
 - Sales operations and stock management using internal tools  
 
----
-
 ### 🔹 Intern – Security & Networks  
 **Duo Info** — Fès  
 *June 2024 – July 2024*  
-- Installation and maintenance of security systems and networks  
-
----
+- Installation and maintenance of security systems and computer networks  
 
 ### 🔹 Intern – Cybersecurity  
 **DSI – Ministry of National Education** — Rabat  
 *July 2025 – September 2025*  
-- Applied ISO **27001 / 27002 / 27005** standards  
-- Vulnerability monitoring and IT risk management  
-
----
+- Applied **ISO 27001, 27002, and 27005** standards  
+- Vulnerability monitoring and IT system risk management  
 
 ### 🔹 Telemarketer (English)  
 **Orbus Marketing** — Fès  
@@ -55,16 +49,16 @@ I enjoy building real-world projects, learning new technologies, and collaborati
 
 ## 🚀 Projects
 
-### 🏎️ Grand Prix VR
+### 🏎️ Grand Prix VR  
 **Unity • Blender • Godot • VR**  
-- Interactive 3D VR environment synchronized with a physical model  
+- Interactive 3D virtual reality environment synchronized with a physical model  
 
-### 📊 Sales Management Application
+### 📊 Sales Management Application  
 **Java • JavaFX • MySQL**  
 - Desktop application for managing sales, products, and employees  
 
-### 🔐 Cybersecurity Awareness Project
-- Developed cybersecurity awareness content and training materials  
+### 🔐 Cybersecurity Awareness Project  
+- Developed cybersecurity awareness content and training activities  
 
 ---
 
@@ -92,7 +86,7 @@ I enjoy building real-world projects, learning new technologies, and collaborati
 
 ---
 
-## 🗄️ Base de données
+## 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
@@ -100,7 +94,7 @@ I enjoy building real-world projects, learning new technologies, and collaborati
 
 ---
 
-## 🧰 Outils & Environnements
+## 🧰 Tools & Environments
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
@@ -137,7 +131,20 @@ I enjoy building real-world projects, learning new technologies, and collaborati
 
 ---
 
+## 📚 Additional Hard Skills
+
+- Java Technologies: **JEE, Servlets, JSP**  
+- Databases Concepts & SQL Optimization  
+- Software Modeling: **UML, Merise**  
+- Markup Languages: **XML, XSL, DTD**  
+- Networking: **IPv4 / IPv6**, **Wireshark**  
+- DevOps & Methodologies: **CI/CD**, **Scrum**  
+- Office Tools: **Word, Excel, PowerPoint, Access**  
+
+---
+
 ## 🌍 Languages
+
 - 🇲🇦 Arabic — Native  
 - 🇬🇧 English — Advanced  
 - 🇫🇷 French — Advanced  
