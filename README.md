@@ -2,8 +2,14 @@
 
 🎓 **Computer Engineering Student** | 💻 **Software & Web Developer** | 🔐 **Cybersecurity Enthusiast**  
 📍 Fès, Morocco  
-🔗 **LinkedIn:** [linkedin.com/in/amineassou](https://www.linkedin.com/in/amineassou/)  
-📧 **Email:** [assou-ami@upf.ac.ma](mailto:assou-ami@upf.ac.ma)
+<div align="left">
+  <a href="https://www.linkedin.com/in/amineassou/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amine%20Assou-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:assou-ami@upf.ac.ma">
+    <img src="https://img.shields.io/badge/Email-assou--ami@upf.ac.ma-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
