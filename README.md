@@ -2,6 +2,8 @@
 
 🎓 **Computer Engineering Student** | 💻 **Software & Web Developer** | 🔐 **Cybersecurity Enthusiast**  
 📍 Fès, Morocco  
+🔗 **LinkedIn:** [linkedin.com/in/amineassou](https://www.linkedin.com/in/amineassou/)  
+📧 **Email:** [assou-ami@upf.ac.ma](mailto:assou-ami@upf.ac.ma)
 
 ---
 
